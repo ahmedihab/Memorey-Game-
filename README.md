@@ -4,7 +4,6 @@ A JavaScript Practice Project
 
 This project is a simple Memory Matching Game created using JavaScript, HTML, and CSS.
 It was built as a learning exercise to practice JavaScript logic, DOM manipulation, and interactive UI design.
-
 🎮 How the Game Works
 
 The game contains a set of cards placed face-down.
@@ -17,9 +16,9 @@ If they don’t match, they flip back after a short delay.
 
 The game continues until all pairs are found.
 
-When the player finds all matches, the game displays a message that they won and the game ends.
+Once all matches are found, the game displays a “You Win!” message.
 
-If your version includes move counting or time limits, I can add that too — just let me know!
+Optional: If your version includes move counting or time limits, these can also be added.
 
 🎯 Purpose of the Project
 
@@ -51,9 +50,8 @@ Clone or download this repository.
 
 Open the project folder.
 
-Start the game by opening:
+Start the game by opening index.html.
 
-index.html
-
+Play directly in your browser — no installation needed.
 
 Play directly in your browser — no installation needed.

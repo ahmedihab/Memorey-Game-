@@ -1,6 +1,6 @@
 Memory Game
 
-A JavaScript Practice Project
+A JavaScript Practice Project.
 
 This project is a simple Memory Matching Game created using JavaScript, HTML, and CSS.
 It was built as a learning exercise to practice JavaScript logic, DOM manipulation, and interactive UI design.
